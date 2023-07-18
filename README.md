@@ -1,2 +1,2 @@
-# maratona_python
-exercicios da maratona de python.
+# maratona_latam
+exercicios da maratona de latam.
