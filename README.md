@@ -1,2 +1,2 @@
-# maratona_latam
-exercicios da maratona de latam.
+# maratona_exercs
+exercicios da maratona.
